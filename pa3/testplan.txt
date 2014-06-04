@@ -1,0 +1,85 @@
+Tests performed are included in the Tests folder.
+All other base cases (empty list or empty hash) are taken of in their appropriate structures.
+
+
+Test Case 1 (BASE CASES)
+
+Test Summary:
+
+index an empty directory
+
+Expected Result:
+
+No words found is printed to screen.
+
+*******************************************************************************
+
+Test Case 2 (BASE CASES)
+
+Test Summary:
+
+index an empty text file
+
+Expected Result:
+
+output text file is cleared if user allows it to be overwritten
+
+*******************************************************************************
+
+Test Case 3 (BASE CASES)
+
+Test Summary:
+
+Access a directory that does not exist
+
+Expected Result:
+
+Error printed and program exits.
+
+*******************************************************************************
+
+Test Case 4 (BASE CASES)
+
+Test Summary:
+
+Indexing a file with a string larger than 1000 characters
+
+Expected Result:
+
+Prints the entire string to file
+
+*******************************************************************************
+
+Test Case 5
+
+Test Summary:
+
+Indexing a short story directory of 250 KB
+
+Expected Result:
+
+Prints the data to the appropriate file
+
+*******************************************************************************
+
+Test Case 6
+
+Test Summary:
+
+Indexing files within a subdirectory four levels below the given directory
+
+Expected Result:
+
+Print the content accessed in subdirectories to file
+
+*******************************************************************************
+
+Test Case 7
+
+Test Summary:
+
+Test for output file exists
+
+Expected Result:
+
+If the file exists, ask the user if they want to override that file. If not, create new file.
