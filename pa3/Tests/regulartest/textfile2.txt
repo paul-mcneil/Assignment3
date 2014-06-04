@@ -1,8 +1,0 @@
-this is!is@is test file2.txt file2.txt file2.txt file2.txtfile2.txt file2.txt
-
-
-
-
-*** 920 ***
-
-"\a\t\to " "\"\n\nHe/llo Worl\r\d\\\\\foo\n\n\k\a\""
